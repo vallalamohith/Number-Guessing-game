@@ -1,10 +1,10 @@
 # number-guessing-game
-Overview
+Overview: 
 
 The Number Guessing Game is a simple web-based game where users try to guess a randomly generated number within a predefined range. This game is built using Java Servlets and utilizes the Random class to generate numbers dynamically.
 Technologies Used
 
-How It Works
+How It Works: 
 
 The servlet generates a random number when the game starts.
 
